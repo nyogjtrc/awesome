@@ -24,3 +24,8 @@ My awesome list for better life
 - [Grid](https://mildgrind.com/) - Window Management App
 - [Spotify Notifications](http://spotify-notifications.citruspi.io/) - Bridging Spotify and OS X Notification Center
 - [OpenVanilla](https://openvanilla.org/) - Input Method for MacOS
+
+
+## Awesome
+
+- [awesome](https://github.com/sindresorhus/awesome)

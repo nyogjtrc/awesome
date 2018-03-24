@@ -11,6 +11,12 @@ My awesome list for better life
 - [Oh My ZSH](http://ohmyz.sh/) - Community-driven framework for managing your ZSH configuration
 - [wttr.in](https://github.com/chubin/wttr.in) - The right way to check the weather
 
+## Text Editor
+
+- [Vim](https://www.vim.org/) - A highly configurable text editor built to make creating and changing any kind of text very efficient
+- [VS Code](https://code.visualstudio.com/) - A source code editor developed by Microsoft
+- [Atom](https://atom.io/) - A hackable text editor for the 21st Century
+
 ## Mac
 
 - [Karabiner](https://pqrs.org/osx/karabiner/) - A powerful and stable keyboard customizer for macOS

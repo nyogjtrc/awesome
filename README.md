@@ -10,6 +10,7 @@ My awesome list for better life
 - [Tig](https://jonas.github.io/tig/) - text-mode interface for git
 - [Oh My ZSH](http://ohmyz.sh/) - Community-driven framework for managing your ZSH configuration
 - [wttr.in](https://github.com/chubin/wttr.in) - The right way to check the weather
+- [tldr](https://github.com/tldr-pages/tldr/) - Simplified and community-driven man pages
 
 ## Text Editor
 

@@ -18,6 +18,11 @@ My awesome list for better life
 - [VS Code](https://code.visualstudio.com/) - A source code editor developed by Microsoft
 - [Atom](https://atom.io/) - A hackable text editor for the 21st Century
 
+## Note
+
+- [Boostnote](https://github.com/BoostIO/Boostnote/) - A markdown editor for developers on Mac, Windows and Linux
+- [Evernote](https://evernote.com/) - Take notes anywhere. Find information faster
+
 ## Database
 
 - [DBeaver](https://dbeaver.jkiss.org/) - Free multi-platform database tool for developers
@@ -37,6 +42,8 @@ My awesome list for better life
 - [Spotify Notifications](http://spotify-notifications.citruspi.io/) - Bridging Spotify and OS X Notification Center
 - [OpenVanilla](https://openvanilla.org/) - Input Method for MacOS
 - [Sequel Pro](https://www.sequelpro.com/) - A fast, easy-to-use Mac database management application for working with MySQL & MariaDB databases
+- [Übersicht](https://github.com/felixhageloh/uebersicht) - Keep an eye on what's happening on your machine and in the world
+- [KeepingYouAwake](https://github.com/newmarcel/KeepingYouAwake) - Prevents your Mac from going to sleep
 
 ## Awesome
 

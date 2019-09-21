@@ -23,6 +23,11 @@ My awesome list for better life
 - [Boostnote](https://github.com/BoostIO/Boostnote/) - A markdown editor for developers on Mac, Windows and Linux
 - [Evernote](https://evernote.com/) - Take notes anywhere. Find information faster
 
+## Virtualization
+
+- [VirtualBox](https://www.virtualbox.org/) - Powerful x86 and AMD64/Intel64 virtualization product
+- [Vagrant](https://www.vagrantup.com/) - A tool for building and managing virtual machine environments in a single workflow
+
 ## Database
 
 - [DBeaver](https://dbeaver.jkiss.org/) - Free multi-platform database tool for developers
@@ -38,12 +43,12 @@ My awesome list for better life
 - [iTerm2](https://www.iterm2.com/) - A terminal emulator for macOS that does amazing things
 - [Karabiner](https://pqrs.org/osx/karabiner/) - A powerful and stable keyboard customizer for macOS
 - [BitBar](https://getbitbar.com/) - Put anything in your Mac OS X Menu bar
-- [Grid](https://mildgrind.com/) - Window Management App
 - [Spotify Notifications](http://spotify-notifications.citruspi.io/) - Bridging Spotify and OS X Notification Center
 - [OpenVanilla](https://openvanilla.org/) - Input Method for MacOS
 - [Sequel Pro](https://www.sequelpro.com/) - A fast, easy-to-use Mac database management application for working with MySQL & MariaDB databases
 - [Übersicht](https://github.com/felixhageloh/uebersicht) - Keep an eye on what's happening on your machine and in the world
 - [KeepingYouAwake](https://github.com/newmarcel/KeepingYouAwake) - Prevents your Mac from going to sleep
+- [KeyCastr](https://github.com/keycastr/keycastr) - An open-source keystroke visualizer
 
 ## Awesome
 

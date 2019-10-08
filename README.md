@@ -11,6 +11,10 @@ My awesome list for better life
 - [Oh My ZSH](http://ohmyz.sh/) - Community-driven framework for managing your ZSH configuration
 - [wttr.in](https://github.com/chubin/wttr.in) - The right way to check the weather
 - [tldr](https://github.com/tldr-pages/tldr/) - Simplified and community-driven man pages
+- [parrot.live](https://github.com/hugomd/parrot.live) - Bringing animated parrots to terminals everywhere
+- [translate-shell](https://github.com/soimort/translate-shell) - Command-line translator using Google Translate
+- [jq](https://stedolan.github.io/jq/) - Lightweight and flexible command-line JSON processor
+- [bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings
 
 ## Text Editor
 
@@ -49,6 +53,7 @@ My awesome list for better life
 - [Übersicht](https://github.com/felixhageloh/uebersicht) - Keep an eye on what's happening on your machine and in the world
 - [KeepingYouAwake](https://github.com/newmarcel/KeepingYouAwake) - Prevents your Mac from going to sleep
 - [KeyCastr](https://github.com/keycastr/keycastr) - An open-source keystroke visualizer
+- [Scroll Reverser for macOS](https://pilotmoon.com/scrollreverser/) - Reverse the direction of scrolling on macOS
 
 ## Awesome
 

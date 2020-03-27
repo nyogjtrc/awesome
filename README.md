@@ -16,6 +16,10 @@ My awesome list for better life
 - [jq](https://stedolan.github.io/jq/) - Lightweight and flexible command-line JSON processor
 - [bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings
 
+## Terminal Emulator
+
+- [Alacritty](https://github.com/alacritty/alacritty) - A cross-platform, GPU-accelerated terminal emulator
+
 ## Text Editor
 
 - [Vim](https://www.vim.org/) - A highly configurable text editor built to make creating and changing any kind of text very efficient
@@ -26,6 +30,7 @@ My awesome list for better life
 
 - [Boostnote](https://github.com/BoostIO/Boostnote/) - A markdown editor for developers on Mac, Windows and Linux
 - [Evernote](https://evernote.com/) - Take notes anywhere. Find information faster
+- [Joplin](https://github.com/laurent22/joplin) - An open source note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS
 
 ## Virtualization
 
@@ -47,7 +52,6 @@ My awesome list for better life
 - [iTerm2](https://www.iterm2.com/) - A terminal emulator for macOS that does amazing things
 - [Karabiner](https://pqrs.org/osx/karabiner/) - A powerful and stable keyboard customizer for macOS
 - [BitBar](https://getbitbar.com/) - Put anything in your Mac OS X Menu bar
-- [Spotify Notifications](http://spotify-notifications.citruspi.io/) - Bridging Spotify and OS X Notification Center
 - [OpenVanilla](https://openvanilla.org/) - Input Method for MacOS
 - [Sequel Pro](https://www.sequelpro.com/) - A fast, easy-to-use Mac database management application for working with MySQL & MariaDB databases
 - [Übersicht](https://github.com/felixhageloh/uebersicht) - Keep an eye on what's happening on your machine and in the world

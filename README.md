@@ -2,6 +2,10 @@
 
 My awesome list for comfortable development and better life
 
+## Terminal Emulator
+
+- [Alacritty](https://github.com/alacritty/alacritty) - A cross-platform, GPU-accelerated terminal emulator
+
 ## Command Line
 
 - [The Fuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command
@@ -15,10 +19,6 @@ My awesome list for comfortable development and better life
 - [translate-shell](https://github.com/soimort/translate-shell) - Command-line translator using Google Translate
 - [jq](https://stedolan.github.io/jq/) - Lightweight and flexible command-line JSON processor
 - [bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings
-
-## Terminal Emulator
-
-- [Alacritty](https://github.com/alacritty/alacritty) - A cross-platform, GPU-accelerated terminal emulator
 
 ## Text Editor
 
@@ -50,14 +50,14 @@ My awesome list for comfortable development and better life
 
 - [Homebrew](https://brew.sh/) - The missing package manager for macOS
 - [iTerm2](https://www.iterm2.com/) - A terminal emulator for macOS that does amazing things
-- [Karabiner](https://pqrs.org/osx/karabiner/) - A powerful and stable keyboard customizer for macOS
-- [BitBar](https://getbitbar.com/) - Put anything in your Mac OS X Menu bar
-- [OpenVanilla](https://openvanilla.org/) - Input Method for MacOS
-- [Sequel Pro](https://www.sequelpro.com/) - A fast, easy-to-use Mac database management application for working with MySQL & MariaDB databases
-- [Übersicht](https://github.com/felixhageloh/uebersicht) - Keep an eye on what's happening on your machine and in the world
-- [KeepingYouAwake](https://github.com/newmarcel/KeepingYouAwake) - Prevents your Mac from going to sleep
 - [KeyCastr](https://github.com/keycastr/keycastr) - An open-source keystroke visualizer
 - [Scroll Reverser for macOS](https://pilotmoon.com/scrollreverser/) - Reverse the direction of scrolling on macOS
+- [BitBar](https://getbitbar.com/) - Put anything in your Mac OS X Menu bar
+- [Übersicht](https://github.com/felixhageloh/uebersicht) - Keep an eye on what's happening on your machine and in the world
+- [KeepingYouAwake](https://github.com/newmarcel/KeepingYouAwake) - Prevents your Mac from going to sleep
+- [Karabiner](https://pqrs.org/osx/karabiner/) - A powerful and stable keyboard customizer for macOS
+- [OpenVanilla](https://openvanilla.org/) - Input Method for MacOS
+- [Sequel Pro](https://www.sequelpro.com/) - A fast, easy-to-use Mac database management application for working with MySQL & MariaDB databases
 
 ## Awesome
 

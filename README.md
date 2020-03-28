@@ -1,6 +1,6 @@
 # Awesome
 
-My awesome list for better life
+My awesome list for comfortable development and better life
 
 ## Command Line
 
